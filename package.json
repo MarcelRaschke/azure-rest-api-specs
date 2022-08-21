@@ -15,7 +15,7 @@
     "@microsoft.azure/polyfill": "^1.0.17",
     "@ts-common/local-install": "^0.0.8",
     "fs-extra": "^3.0.1",
-    "glob": "^5.0.14",
+    "glob": "^8.0.3",
     "js-yaml": "^3.8.2",
     "json-schema-ref-parser": "^3.1.2",
     "mocha": "*",
